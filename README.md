@@ -4,6 +4,6 @@ Aim of the project is to provide all information to use Unity [XR Interaction To
 
 # Content
 
-Content of this project are Unity projects for every single unse case of XRIT in an isolated environment to minimize the effort to implement it in another project.
+The content of this project is the simplest Unity projects for each individual use case of XRIT. It provides isolated environments and settings to represent each functional aspect of XRIT independently and thus reduces the effort for implementation in other projects to a minimum.
 
-Look into the branches to find the appropriate projects for your Unity and XRIT version.
+In the branches you can find the different Unity and XRIT version for your project.
